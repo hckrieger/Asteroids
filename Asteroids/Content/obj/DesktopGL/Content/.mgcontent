@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Audio/asteroid.wav</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Audio/enemy.mp3</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Audio/fire.wav</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Audio/gameover.wav</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Audio/theme.mp3</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Audio/win.mp3</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Fonts/Info.spritefont</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Fonts/Instructions.spritefont</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Fonts/Title.spritefont</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Sprites/Asteroids@3x1.png</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Sprites/Enemy.png</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Sprites/projectile.png</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Sprites/Ship@2x1.png</File>
+    <File>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Sprites/TextBox.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

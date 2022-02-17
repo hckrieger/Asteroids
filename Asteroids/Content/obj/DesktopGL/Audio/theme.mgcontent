@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/Audio/theme.mp3</SourceFile>
+  <SourceTime>2022-02-11T20:59:17.8731974-05:00</SourceTime>
+  <DestFile>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/bin/DesktopGL/Audio/theme.xnb</DestFile>
+  <DestTime>2022-02-11T21:00:02.2810071-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/hunte/source/repos/MonoGame/games/Asteroids/Asteroids/Content/bin/DesktopGL/Audio/theme.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
